@@ -49,12 +49,7 @@ This removes the `obj/` directory and the final binary.
 
 - Source code must be implemented in `*.cpp` and `*.h` files
 - Instructions at [How to build and run](#how-to-build-and-run) section
-- [DOCS.md](./DOCS.md)
-    - Introduction
-    - Research on stocks exchange 
-    - Software Design and Implementation (diagrams, charts, key functions, code snippets, etc)
-    - Conclusions and Learnings (one per teammate)
- 
+
 ## Grading Policy
 
 | Rubric                           | Points |
