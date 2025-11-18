@@ -45,16 +45,3 @@ make clean
 
 This removes the `obj/` directory and the final binary.
 
-## Deliverables
-
-- Source code must be implemented in `*.cpp` and `*.h` files
-- Instructions at [How to build and run](#how-to-build-and-run) section
-
-## Grading Policy
-
-| Rubric                           | Points |
-|----------------------------------|--------|
-| Use of Priority Queues           |   40   |
-| Terminal-based real-time UI      |   30   |
-| Documentation                    |   30   |
-| Total                            |   100  |
