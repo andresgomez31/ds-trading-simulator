@@ -9,8 +9,41 @@ On this challenge, you're implementing a Continuos Limit Order Book (CLOB). Buye
 
 ## How to build and run
 
-_ADD YOUR INSTRUCTIONS HERE_
+This project uses a standard C++17 toolchain (`g++`) and a Makefile for compilation.
 
+### **1. Build**
+
+From the project root:
+
+```bash
+make
+```
+
+This will:
+
+* Compile all `src/*.cpp` files
+* Place object files into `obj/`
+* Produce the executable named **main**
+
+### **2. Run the program**
+
+```bash
+make run
+```
+
+or manually:
+
+```bash
+./main
+```
+
+### **3. Clean build artifacts**
+
+```bash
+make clean
+```
+
+This removes the `obj/` directory and the final binary.
 
 ## Deliverables
 
