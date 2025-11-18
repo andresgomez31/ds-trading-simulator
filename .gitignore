@@ -281,3 +281,6 @@ tags
 
 # Custom
 main
+
+# vscode
+.vscode/*
